@@ -1,0 +1,133 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49556
+Successfully changed project path to: C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid
+C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 42.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56784
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003857 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.456 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.790 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1239 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 1.628300 ms (FindLiveObjects: 0.166700 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.356000 ms  DeleteObjects: 0.069900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GoogleMobileAds/GoogleMobileAds.asmdef
+  artifactKey: Guid(a037b9f808b8c43ae91c527caf71d031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/GoogleMobileAds.asmdef using Guid(a037b9f808b8c43ae91c527caf71d031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31460d3d139a23e076daf98ac1e2028') in 0.025798 seconds
+  Import took 0.028898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.480025 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(2f5d736f7c4cb4c1e80d0816d0e81625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(2f5d736f7c4cb4c1e80d0816d0e81625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862fb21d4032afe228e6dfca16cd5368') in 0.001999 seconds
+  Import took 0.004384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.883549 seconds.
+  path: Assets/Plugins/Android/GoogleMobileAdsPlugin.androidlib
+  artifactKey: Guid(279cf64911f7443388ceb3738cc6f83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/GoogleMobileAdsPlugin.androidlib using Guid(279cf64911f7443388ceb3738cc6f83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c2f5a4b7bbd85d583c8b3d9efe64d4') in 0.003248 seconds
+  Import took 0.005752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.543459 seconds.
+  path: Assets/Plugins/Android/GoogleMobileAdsPlugin.androidlib
+  artifactKey: Guid(279cf64911f7443388ceb3738cc6f83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/GoogleMobileAdsPlugin.androidlib using Guid(279cf64911f7443388ceb3738cc6f83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c2f5a4b7bbd85d583c8b3d9efe64d4') in 0.001738 seconds
+  Import took 0.004092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.665450 seconds.
+  path: Assets/Plugins/iOS
+  artifactKey: Guid(da135550add3c4abca622bda5280d204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/iOS using Guid(da135550add3c4abca622bda5280d204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43dac3c4eb77472db3e9bbc24fa95c15') in 0.001669 seconds
+  Import took 0.004483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001342 seconds.
+  path: Assets/Plugins/iOS
+  artifactKey: Guid(da135550add3c4abca622bda5280d204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/iOS using Guid(da135550add3c4abca622bda5280d204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43dac3c4eb77472db3e9bbc24fa95c15') in 0.002711 seconds
+  Import took 0.005238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.655021 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.010337 seconds
+  Import took 0.012729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.211237 seconds.
+  path: Assets/Scenes/GameScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682366d9821b0309fbf90d664b092be1') in 0.003778 seconds
+  Import took 0.006391 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

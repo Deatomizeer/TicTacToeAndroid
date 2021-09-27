@@ -1,0 +1,228 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49411
+Successfully changed project path to: C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid
+C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Przemek/Documents/GitHub/TicTacToeAndroid/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005217 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.882 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009156 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1239 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 2.324600 ms (FindLiveObjects: 0.342700 ms CreateObjectMapping: 0.142800 ms MarkObjects: 1.720200 ms  DeleteObjects: 0.103600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Folder
+  artifactKey: Guid(1e81f287de016074b8fed0aabcb8a520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(1e81f287de016074b8fed0aabcb8a520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05674be5005720d11c85413abaf1df4d') in 0.004446 seconds
+  Import took 0.007653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.120599 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(1e81f287de016074b8fed0aabcb8a520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(1e81f287de016074b8fed0aabcb8a520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2eb3449556c489fa0c5823a7a74e8a') in 0.001959 seconds
+  Import took 0.006263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.669421 seconds.
+  path: Assets/Resources/tictactoe-background.png
+  artifactKey: Guid(6c3082201847c1944b9e89045111d4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tictactoe-background.png using Guid(6c3082201847c1944b9e89045111d4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17fdb74ad8fccdd8f261c9cb3490bf43') in 0.129696 seconds
+  Import took 0.134570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.034680 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/768x1024.png
+  artifactKey: Guid(8a53f9c63a5e94b14a98698a7b07365b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/768x1024.png using Guid(8a53f9c63a5e94b14a98698a7b07365b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc802d02c8cb50288bc4685441bceb05') in 0.062105 seconds
+  Import took 0.066564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000745 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/1024x768.png
+  artifactKey: Guid(4c69db43dbd474a2987be5807129b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/1024x768.png using Guid(4c69db43dbd474a2987be5807129b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3972fd5639fa24b521d7521531c5b91a') in 0.020241 seconds
+  Import took 0.023635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.222015 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/300x250.png
+  artifactKey: Guid(898f886a39d714db5b90d2c36676c894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/300x250.png using Guid(898f886a39d714db5b90d2c36676c894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d12d7ef98df5119ff70ca105b7db26b') in 0.013078 seconds
+  Import took 0.015892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x100.png
+  artifactKey: Guid(1a2723ddf964e4565a408007ab387283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x100.png using Guid(1a2723ddf964e4565a408007ab387283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f36f795d87964f677d2bf7696bf5794') in 0.011860 seconds
+  Import took 0.014626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x480.png
+  artifactKey: Guid(77d9c04b43d404f44ab60d7159b279bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x480.png using Guid(77d9c04b43d404f44ab60d7159b279bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd998b68f262cbed7b0f3491415e2627') in 0.017935 seconds
+  Import took 0.020880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x50.png
+  artifactKey: Guid(5a6531d4c9c484d679a2d6f9e6fefed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x50.png using Guid(5a6531d4c9c484d679a2d6f9e6fefed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e7a21c4466eb3be399ce8c3b56dcb3') in 0.011647 seconds
+  Import took 0.014062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/468x60.png
+  artifactKey: Guid(74358f5fb13a549aabac4a5a7ac76739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/468x60.png using Guid(74358f5fb13a549aabac4a5a7ac76739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd957829a289a37c2c02dccea927ae78') in 0.015732 seconds
+  Import took 0.019002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/480x320.png
+  artifactKey: Guid(d30303c99ba3f4b9b9924da34e6d742d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/480x320.png using Guid(d30303c99ba3f4b9b9924da34e6d742d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed533e0f80d33caa3c2076710916d63') in 0.013040 seconds
+  Import took 0.016895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x480.png
+  artifactKey: Guid(77d9c04b43d404f44ab60d7159b279bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/320x480.png using Guid(77d9c04b43d404f44ab60d7159b279bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd998b68f262cbed7b0f3491415e2627') in 0.011344 seconds
+  Import took 0.015074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/728x90.png
+  artifactKey: Guid(cfead63ff9d9d48e2b4ba3c2dee7cea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/728x90.png using Guid(cfead63ff9d9d48e2b4ba3c2dee7cea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0338ac5dbba0897ea62e2f9b803432') in 0.012729 seconds
+  Import took 0.015156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/480x320.png
+  artifactKey: Guid(d30303c99ba3f4b9b9924da34e6d742d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/480x320.png using Guid(d30303c99ba3f4b9b9924da34e6d742d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed533e0f80d33caa3c2076710916d63') in 0.011412 seconds
+  Import took 0.013673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007874 seconds.
+  path: Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/728x90.png
+  artifactKey: Guid(cfead63ff9d9d48e2b4ba3c2dee7cea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Editor/Resources/DummyAds/AdImages/728x90.png using Guid(cfead63ff9d9d48e2b4ba3c2dee7cea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0338ac5dbba0897ea62e2f9b803432') in 0.008550 seconds
+  Import took 0.010630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.219623 seconds.
+  path: Assets/Resources/tictactoe-background.png
+  artifactKey: Guid(6c3082201847c1944b9e89045111d4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tictactoe-background.png using Guid(6c3082201847c1944b9e89045111d4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0239887e6741c60581e5483ec55b20c9') in 0.024380 seconds
+  Import took 0.027175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5257.675355 seconds.
+  path: Assets/Resources/tictactoe-cross.png
+  artifactKey: Guid(b4148eaab3cb6dd4ca9302923911c111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tictactoe-cross.png using Guid(b4148eaab3cb6dd4ca9302923911c111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0668d6c90445fe35634ba6f61f03f0') in 0.021330 seconds
+  Import took 0.024250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Resources/tictactoe-nought.png
+  artifactKey: Guid(fe70cb43f8ffc484e8bee9c9f29df083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tictactoe-nought.png using Guid(fe70cb43f8ffc484e8bee9c9f29df083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467720c52059facb91c5cc2658fe5d27') in 0.005769 seconds
+  Import took 0.008086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.920615 seconds.
+  path: Assets/Resources/tictactoe-cross.png
+  artifactKey: Guid(b4148eaab3cb6dd4ca9302923911c111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tictactoe-cross.png using Guid(b4148eaab3cb6dd4ca9302923911c111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab758a2fecc3491e274a8badaa14fb53') in 0.012922 seconds
+  Import took 0.015475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.017707 seconds.
+  path: Assets/Resources/tictactoe-nought.png
+  artifactKey: Guid(fe70cb43f8ffc484e8bee9c9f29df083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tictactoe-nought.png using Guid(fe70cb43f8ffc484e8bee9c9f29df083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d471033ca635e7b92701afd5c1427d') in 0.011420 seconds
+  Import took 0.013709 seconds .
+
