@@ -9,12 +9,19 @@ public class GameScript : MonoBehaviour
     public const int boardHeight = 3;
     // Game board reference for inserting interactable spaces.
     public GameObject gameBoard;
-    // Space prefab to be inserted into the board.
-    public GameObject spacePrefab;
+    // 
+    //private Vector3 topLeftPos = 
+    // Square prefab to be inserted into the board.
+    public GameObject squarePrefab;
     // Start is called before the first frame update
     void Start()
     {
-        GameObject newSpace = Instantiate(spacePrefab);
+        for( int i = 0; i < boardWidth * boardHeight; i++)
+        {
+            GameObject newSpace = Instantiate(squarePrefab, gameBoard.transform);
+            newSpace.transform.SetParent(gameBoard.transform);
+        }
+
 
     }
 
